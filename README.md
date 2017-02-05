@@ -7,7 +7,7 @@ https://appworld.blackberry.com/webstore/content/59959969/?countrycode=IN&lang=e
 
 #License
 
-TB10 is Copyright © 2016 Ahamtech. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ahamtech/Coterie/blob/master/LICENSE) file.
+Coterie is Copyright © 2016 Ahamtech. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/ahamtech/Coterie/blob/master/LICENSE) file.
 
 # About Ahamtech
 
